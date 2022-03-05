@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2735c7ac.css",
+    "main.js": "/static/js/main.259b1a31.js",
+    "static/media/cv-x.pdf": "/static/media/cv-x.ee9f5f83141e9d9d6b04.pdf",
+    "static/media/levi.png": "/static/media/levi.be8daa47424979fe8f51.png",
+    "static/media/min.jpeg": "/static/media/min.700c40ae88829eead941.jpeg",
+    "index.html": "/index.html",
+    "main.2735c7ac.css.map": "/static/css/main.2735c7ac.css.map",
+    "main.259b1a31.js.map": "/static/js/main.259b1a31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2735c7ac.css",
+    "static/js/main.259b1a31.js"
+  ]
+}
